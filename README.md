@@ -1,9 +1,10 @@
-- 👋 Hi, I’m saeedullahumar
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python and DevOps project
-- 📫 How to reach me www.linkedin.com/in/linuxadmin-saeedullah
-- 😄 Pronouns: he, him
+👋 Hi, I’m @saeedullah
+🛠️ Highly skilled Linux SysAdmin with over 2 years of experience
+🌱 I’m diving deep into DevOps and AWS to streamline deployments further.
+💞️ I’m looking to collaborate on an innovative open-source DevOps project.
+📫 How to reach me on LinkedIn: https://linkedin.com/in/saeedullahumar.
+😄 Pronouns: he/him
+⚡ Fun fact: I enjoy experimenting.
   
 
 <!---
