@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @saeedullah
-- 🛠️ Highly skilled Linux SysAdmin with over 2 years of experience
-- 🚀 I’m diving deep into DevOps and AWS to streamline deployments further.
-- 🤝 I’m looking to collaborate on an innovative open-source DevOps project.
-- 🔗 How to reach me on [LinkedIn](https://linkedin.com/in/saeedullahumar).
-- 😄 Pronouns: he/him
+👋 Hi, I’m Saeed Ullah, a BSCS student at FAST NUCES, enjoys exploring modern technology.
+🚀 I like learning by building things, trying out new tools, and understanding how systems work.
+🤝 Interested in working on projects where I can learn, contribute, and grow.
+⚡ Enjoy experimenting and turning ideas into something useful.
+- 🔗 connect [LinkedIn](https://linkedin.com/in/saeedullahumar).
+-  Pronouns: he/him
 - ⚡ Fun fact: I enjoy experimenting.
 
   
